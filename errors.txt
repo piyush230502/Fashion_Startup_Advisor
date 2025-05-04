@@ -1,0 +1,8 @@
+## list of errors i got
+
+1. Fatal error in launcher: Unable to create process using '"F:\AGENTIC_AI_PROJECTS\test\venv\python.exe"  
+"F:\AGENTIC_AI_PROJECTS\Fashion_Startup_Advisor\venv\Scripts\streamlit.exe" run app.py':
+ The system cannot find the file specified.
+
+** Cause : you are activating virtual environment after changing the workspace name.
+** Solution : reinstall virtual environment
